@@ -1,0 +1,35 @@
+source_id,reporting_month,filename,relative_path,report_section,fact_sheet_format,file_status,extraction_status,review_status,notes
+SRC_0001,2024-01,operational-performance-jan-2024_converted.pdf,data/raw/nerc/operational-performance-jan-2024_converted.pdf,combined,old,available,not_started,not_reviewed,
+SRC_0002,2024-02,Operational-performance-Feb-2024_converted.pdf,data/raw/nerc/Operational-performance-Feb-2024_converted.pdf,combined,old,available,not_started,not_reviewed,
+SRC_0003,2024-03,Operational-performance-Mar-2024_converted.pdf,data/raw/nerc/Operational-performance-Mar-2024_converted.pdf,combined,old,available,not_started,not_reviewed,
+SRC_0004,2024-04,Operational-Performance-Factsheet-April-2024_converted.pdf,data/raw/nerc/Operational-Performance-Factsheet-April-2024_converted.pdf,combined,old,available,not_started,not_reviewed,
+SRC_0005,2024-05,Operational-performance-factsheet-May-2024_converted.pdf,data/raw/nerc/Operational-performance-factsheet-May-2024_converted.pdf,combined,old,available,not_started,not_reviewed,
+SRC_0006,2024-06,Operational-performance-factsheet-for-june-2024_converted.pdf,data/raw/nerc/Operational-performance-factsheet-for-june-2024_converted.pdf,combined,old,available,not_started,not_reviewed,
+SRC_0007,2024-07,operational-performance-factsheet-updated-Jul-2024_converted.pdf,data/raw/nerc/operational-performance-factsheet-updated-Jul-2024_converted.pdf,combined,old,available,not_started,not_reviewed,
+SRC_0008,2024-08,operational-performance-factsheet-for-August-2024_converted.pdf,data/raw/nerc/operational-performance-factsheet-for-August-2024_converted.pdf,combined,old,available,not_started,not_reviewed,
+SRC_0009,2024-09,Operational-Performance-Factsheet-Sept-2024_converted.pdf,data/raw/nerc/Operational-Performance-Factsheet-Sept-2024_converted.pdf,combined,old,available,not_started,not_reviewed,
+SRC_0010,2024-10,Operational-performance-factsheet_Oct-2024_converted.pdf,data/raw/nerc/Operational-performance-factsheet_Oct-2024_converted.pdf,combined,old,available,not_started,not_reviewed,
+SRC_0011,2024-11,Operational-Performance-Factsheet-for-Nov-2024_converted.pdf,data/raw/nerc/Operational-Performance-Factsheet-for-Nov-2024_converted.pdf,combined,old,available,not_started,not_reviewed,
+SRC_0012,2024-12,Operational-performane-factsheet-Dec-2024_converted.pdf,data/raw/nerc/Operational-performane-factsheet-Dec-2024_converted.pdf,combined,old,available,not_started,not_reviewed,
+SRC_0013,2025-01,Operational-Performance-Factsheet-Jan-2025.pdf,data/raw/nerc/Operational-Performance-Factsheet-Jan-2025.pdf,combined,old,available,not_started,not_reviewed,
+SRC_0014,2025-02,Operational-Performance-Factsheet-Feb-2025.pdf,data/raw/nerc/Operational-Performance-Factsheet-Feb-2025.pdf,combined,old,available,not_started,not_reviewed,
+SRC_0015,2025-03,Operational-Performance-Factsheet-Mar-2025.pdf,data/raw/nerc/Operational-Performance-Factsheet-Mar-2025.pdf,combined,old,available,not_started,not_reviewed,
+SRC_0016,2025-04,Operational-Performance-Factsheet-Apr-2025.pdf,data/raw/nerc/Operational-Performance-Factsheet-Apr-2025.pdf,combined,old,available,not_started,not_reviewed,
+SRC_0017,2025-05,Operational-Performance-Factsheet-May-2025.pdf,data/raw/nerc/Operational-Performance-Factsheet-May-2025.pdf,combined,old,available,not_started,not_reviewed,
+SRC_0018,2025-06,Operational-Performance-Factsheet-Jun-2025.pdf,data/raw/nerc/Operational-Performance-Factsheet-Jun-2025.pdf,combined,old,available,not_started,not_reviewed,
+SRC_0019,2025-07,Operational-Performance-Factsheet-Jul-2025.pdf,data/raw/nerc/Operational-Performance-Factsheet-Jul-2025.pdf,combined,old,available,not_started,not_reviewed,
+SRC_0020,2025-08,Operational-Performance-Factsheet-Aug-2025_1.pdf,data/raw/nerc/Operational-Performance-Factsheet-Aug-2025_1.pdf,grid,new,available,not_started,not_reviewed,Contains grid data only; plant data is missing for this file
+SRC_0021,2025-08,Operational-Performance-Factsheet-Aug-2025_2.pdf,data/raw/nerc/Operational-Performance-Factsheet-Aug-2025_2.pdf,plant,new,available,not_started,not_reviewed,Contains plant data only; grid data is missing for this file
+SRC_0022,2025-09,Operational-Performance-Factsheet-Sep-2025_1.pdf,data/raw/nerc/Operational-Performance-Factsheet-Sep-2025_1.pdf,grid,new,available,not_started,not_reviewed,Contains grid data only; plant data is missing for this file
+SRC_0023,2025-09,Operational-Performance-Factsheet-Sep-2025_2.pdf,data/raw/nerc/Operational-Performance-Factsheet-Sep-2025_2.pdf,plant,new,available,not_started,not_reviewed,Contains plant data only; grid data is missing for this file
+SRC_0024,2025-10,Operational-performance-factsheet_1-Oct-2025.pdf,data/raw/nerc/Operational-performance-factsheet_1-Oct-2025.pdf,grid,new,available,not_started,not_reviewed,Contains grid data only; plant data is missing for this file
+SRC_0025,2025-10,Operational-performance-factsheet_2-Oct-2025.pdf,data/raw/nerc/Operational-performance-factsheet_2-Oct-2025.pdf,plant,new,available,not_started,not_reviewed,Contains plant data only; grid data is missing for this file
+SRC_0026,2025-11,Operational-Performance-Factsheet-Nov-2025_1.pdf,data/raw/nerc/Operational-Performance-Factsheet-Nov-2025_1.pdf,grid,new,available,not_started,not_reviewed,Contains grid data only; plant data is missing for this file
+SRC_0027,2025-11,Operational-Performance-Factsheet-Nov-2025_2.pdf,data/raw/nerc/Operational-Performance-Factsheet-Nov-2025_2.pdf,plant,new,available,not_started,not_reviewed,Contains plant data only; grid data is missing for this file
+SRC_0028,2025-12,Operational-Performance-Factsheet-Dec-2025_1.pdf,data/raw/nerc/Operational-Performance-Factsheet-Dec-2025_1.pdf,grid,new,available,not_started,not_reviewed,Contains grid data only; plant data is missing for this file
+SRC_0029,2025-12,Operational-Performance-Factsheet-Dec-2025_2.pdf,data/raw/nerc/Operational-Performance-Factsheet-Dec-2025_2.pdf,plant,new,available,not_started,not_reviewed,Contains plant data only; grid data is missing for this file
+SRC_0030,2026-01,Operational-Performance-Factsheet-January-2026.pdf,data/raw/nerc/Operational-Performance-Factsheet-January-2026.pdf,combined,new,available,not_started,not_reviewed,
+SRC_0031,2026-02,Operational-Performance-Factsheet-February-2026.pdf,data/raw/nerc/Operational-Performance-Factsheet-February-2026.pdf,combined,new,available,not_started,not_reviewed,
+SRC_0032,2026-03,Operational-Factsheet_March-2026-merged.pdf,data/raw/nerc/Operational-Factsheet_March-2026-merged.pdf,combined,new,available,not_started,not_reviewed,
+SRC_0033,2026-04,Operational-Factsheet-April-2026.pdf,data/raw/nerc/Operational-Factsheet-April-2026.pdf,combined,new,available,not_started,not_reviewed,
+SRC_0034,2026-08,Operational_Factsheet_Aug-2026-updated-scaled.pdf,data/raw/nerc/Operational_Factsheet_Aug-2026-updated-scaled.pdf,combined,new,available,not_started,not_reviewed,Plant data is partial; grid data is complete

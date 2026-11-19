@@ -1,0 +1,33 @@
+reporting_month,plant_data_status,grid_data_status,eligible_for_plant_analysis,eligible_for_grid_analysis,notes
+2024-01,complete,complete,true,true,
+2024-02,complete,complete,true,true,
+2024-03,complete,complete,true,true,
+2024-04,complete,complete,true,true,
+2024-05,complete,complete,true,true,
+2024-06,complete,complete,true,true,
+2024-07,complete,complete,true,true,
+2024-08,complete,complete,true,true,
+2024-09,complete,complete,true,true,
+2024-10,complete,complete,true,true,
+2024-11,complete,complete,true,true,
+2024-12,complete,complete,true,true,
+2025-01,complete,complete,true,true,
+2025-02,complete,complete,true,true,
+2025-03,complete,complete,true,true,
+2025-04,complete,complete,true,true,
+2025-05,complete,complete,true,true,
+2025-06,complete,complete,true,true,
+2025-07,complete,complete,true,true,
+2025-08,complete,complete,true,true,Plant and grid data are splitted across two files; plant data is missing for the first file and grid data is missing for the second file
+2025-09,complete,complete,true,true,Plant and grid data are splitted across two files; plant data is missing for the first file and grid data is missing for the second file
+2025-10,complete,complete,true,true,Plant and grid data are splitted across two files; plant data is missing for the first file and grid data is missing for the second file
+2025-11,complete,complete,true,true,Plant and grid data are splitted across two files; plant data is missing for the first file and grid data is missing for the second file
+2025-12,complete,complete,true,true,Plant and grid data are splitted across two files; plant data is missing for the first file and grid data is missing for the second file
+2026-01,complete,complete,true,true,
+2026-02,complete,complete,true,true,
+2026-03,complete,complete,true,true,
+2026-04,complete,complete,true,true,
+2026-05,unassessed,unassessed,false,false,Not located yet; verify source availability
+2026-06,unassessed,unassessed,false,false,Not located yet; verify source availability
+2026-07,unassessed,unassessed,false,false,Not located yet; verify source availability
+2026-08,partial,complete,false,true,Plant data is partial; grid data is complete
